@@ -1,0 +1,2 @@
+Qt creator 
+Simple Project
